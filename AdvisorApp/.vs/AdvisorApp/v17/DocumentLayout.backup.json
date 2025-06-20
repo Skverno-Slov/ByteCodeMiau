@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AdvisorApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA28A0-D205-4EC3-8E2A-EEA0C1D5E681}|AdvisorApp\\AdvisorApp.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\advisorapp\\advisorapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA28A0-D205-4EC3-8E2A-EEA0C1D5E681}|AdvisorApp\\AdvisorApp.csproj|solutionrelative:advisorapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA28A0-D205-4EC3-8E2A-EEA0C1D5E681}|AdvisorApp\\AdvisorApp.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\advisorapp\\advisorapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA28A0-D205-4EC3-8E2A-EEA0C1D5E681}|AdvisorApp\\AdvisorApp.csproj|solutionrelative:advisorapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA28A0-D205-4EC3-8E2A-EEA0C1D5E681}|AdvisorApp\\AdvisorApp.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\advisorapp\\advisorapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA28A0-D205-4EC3-8E2A-EEA0C1D5E681}|AdvisorApp\\AdvisorApp.csproj|solutionrelative:advisorapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA28A0-D205-4EC3-8E2A-EEA0C1D5E681}|AdvisorApp\\AdvisorApp.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\advisorapp\\advisorapp\\pages\\hotel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EECA28A0-D205-4EC3-8E2A-EEA0C1D5E681}|AdvisorApp\\AdvisorApp.csproj|solutionrelative:advisorapp\\pages\\hotel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 425,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AdvisorApp\\AdvisorApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AdvisorApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AdvisorApp\\AdvisorApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AdvisorApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T18:51:56.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AdvisorApp\\AdvisorApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AdvisorApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AdvisorApp\\AdvisorApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "AdvisorApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T18:51:46.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hotel.cshtml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AdvisorApp\\AdvisorApp\\Pages\\Hotel.cshtml",
+              "RelativeDocumentMoniker": "AdvisorApp\\Pages\\Hotel.cshtml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AdvisorApp\\AdvisorApp\\Pages\\Hotel.cshtml",
+              "RelativeToolTip": "AdvisorApp\\Pages\\Hotel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T18:50:57.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AdvisorApp\\AdvisorApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdvisorApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\AdvisorApp\\AdvisorApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "AdvisorApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T17:07:22.68Z",
+              "EditorCaption": ""
             }
           ]
         }

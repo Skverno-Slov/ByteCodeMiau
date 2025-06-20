@@ -1,0 +1,5 @@
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\WebApiServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\WebApiServices.AssemblyInfoInputs.cache
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\WebApiServices.AssemblyInfo.cs
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\WebApiServices.csproj.CoreCompileInputs.cache
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\WebApiServices.sourcelink.json
