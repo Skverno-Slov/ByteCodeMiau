@@ -7,27 +7,27 @@ namespace WebApiServices
     {
         private readonly HttpClient _client = client;
 
-        public async Task<IEnumerable<Hotel>> GetGamesAsync()
-            => await _client.GetFromJsonAsync<IEnumerable<Hotel>>("hotel");
+        public async Task<IEnumerable<Entertainment>> GetGamesAsync()
+            => await _client.GetFromJsonAsync<IEnumerable<Entertainment>>("entertainment");
 
-        public async Task<Hotel> GetGameAsync(int id)
-            => await _client.GetFromJsonAsync<Hotel>($"hotel/{id}");
+        public async Task<Entertainment> GetGameAsync(int id)
+            => await _client.GetFromJsonAsync<Entertainment>($"entertainment/{id}");
 
-        public async Task UpdateGameAsync(Hotel hotel)
+        public async Task UpdateGameAsync(Entertainment entertainment)
         {
-            var response = await _client.PutAsJsonAsync($"hotel/{hotel.HotelId}", hotel);
+            var response = await _client.PutAsJsonAsync($"entertainment/{entertainment.EntertainmentId}", entertainment);
             response.EnsureSuccessStatusCode();
         }
 
-        public async Task CreateGameAsync(Hotel hotel)
+        public async Task CreateGameAsync(Entertainment entertainment)
         {
-            var response = await _client.PostAsJsonAsync($"hotel/", hotel);
+            var response = await _client.PostAsJsonAsync($"entertainment/", entertainment);
             response.EnsureSuccessStatusCode();
         }
 
         public async Task DeleteGameAsync(int id)
         {
-            var response = await _client.DeleteAsync($"hotel/{id}");
+            var response = await _client.DeleteAsync($"entertainment/{id}");
             response.EnsureSuccessStatusCode();
         }
     }

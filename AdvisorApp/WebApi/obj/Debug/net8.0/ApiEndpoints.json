@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "Task3.Controllers.HotelController",
+    "ContainingType": "Task3.Controllers.EntertainmentController",
     "Method": "Get",
-    "RelativePath": "api/Hotel",
+    "RelativePath": "api/Entertainment",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -10,25 +10,25 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Task3.Controllers.HotelController",
+    "ContainingType": "Task3.Controllers.EntertainmentController",
     "Method": "Post",
-    "RelativePath": "api/Hotel",
+    "RelativePath": "api/Entertainment",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "hotel",
-        "Type": "DatabaseLibrary.Models.Hotel",
+        "Name": "entertainment",
+        "Type": "DatabaseLibrary.Models.Entertainment",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Task3.Controllers.HotelController",
+    "ContainingType": "Task3.Controllers.EntertainmentController",
     "Method": "Get",
-    "RelativePath": "api/Hotel/{id}",
+    "RelativePath": "api/Entertainment/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -42,9 +42,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Task3.Controllers.HotelController",
+    "ContainingType": "Task3.Controllers.EntertainmentController",
     "Method": "Put",
-    "RelativePath": "api/Hotel/{id}",
+    "RelativePath": "api/Entertainment/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -55,17 +55,17 @@
         "IsRequired": true
       },
       {
-        "Name": "hotel",
-        "Type": "DatabaseLibrary.Models.Hotel",
+        "Name": "entertainment",
+        "Type": "DatabaseLibrary.Models.Entertainment",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Task3.Controllers.HotelController",
+    "ContainingType": "Task3.Controllers.EntertainmentController",
     "Method": "Delete",
-    "RelativePath": "api/Hotel/{id}",
+    "RelativePath": "api/Entertainment/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

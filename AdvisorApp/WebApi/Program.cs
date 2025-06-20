@@ -8,7 +8,7 @@ string dbPath = Path.Combine(Environment.CurrentDirectory,"database.db");
 string connectionString = $"Data Source={dbPath}";
 
 builder.Services.AddSingleton<IDatabaseFactory>(new SqliteFactory(connectionString));
-builder.Services.AddScoped<HotelRepository>();
+builder.Services.AddScoped<EntertainmentRepository>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

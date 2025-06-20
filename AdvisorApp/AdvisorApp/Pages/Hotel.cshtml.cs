@@ -9,11 +9,11 @@ namespace AdvisorApp.Pages
     {
         private readonly HotelService _service = service;
         [BindProperty]
-        public Hotel Hotel { get; set; }
+        public Entertainment Entertainment { get; set; }
         public async Task<IActionResult> OnGetAsync(int id)
         {
-            Hotel = await _service.GetGameAsync(id);
-            if (Hotel is null)
+            Entertainment = await _service.GetGameAsync(id);
+            if (Entertainment is null)
                 return NotFound();
             return Page();
         }

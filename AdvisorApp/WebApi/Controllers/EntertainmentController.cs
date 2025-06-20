@@ -5,9 +5,9 @@ namespace Task3.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class HotelController(HotelRepository repository) : ControllerBase
+    public class EntertainmentController(EntertainmentRepository repository) : ControllerBase
     {
-        private readonly HotelRepository _repository = repository;
+        private readonly EntertainmentRepository _repository = repository;
         // GET: api/<GamesController>
         [HttpGet]
         public IActionResult Get()
@@ -20,20 +20,20 @@ namespace Task3.Controllers
 
         // POST api/<GamesController>
         [HttpPost]
-        public IActionResult Post([FromBody] Hotel hotel)
+        public IActionResult Post([FromBody] Entertainment entertainment)
         {
-            _repository.Create(hotel);
+            _repository.Create(entertainment);
             return NoContent();
         }
 
         // PUT api/<GamesController>/5
         [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] Hotel hotel)
+        public IActionResult Put(int id, [FromBody] Entertainment entertainment)
         {
-            if (id != hotel.HotelId)
+            if (id != entertainment.EntertainmentId)
                 return NotFound();
 
-            _repository.Update(hotel);
+            _repository.Update(entertainment);
             return NoContent();
         }
 
