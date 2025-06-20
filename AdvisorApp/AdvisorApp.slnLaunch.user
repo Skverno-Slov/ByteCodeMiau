@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "AdvisorApp\\AdvisorApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebApi\\WebApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
