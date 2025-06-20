@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "Task3.Controllers.GamesController",
+    "ContainingType": "Task3.Controllers.HotelController",
     "Method": "Get",
-    "RelativePath": "api/Games",
+    "RelativePath": "api/Hotel",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -10,25 +10,25 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Task3.Controllers.GamesController",
+    "ContainingType": "Task3.Controllers.HotelController",
     "Method": "Post",
-    "RelativePath": "api/Games",
+    "RelativePath": "api/Hotel",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "game",
-        "Type": "DatabaseLibrary.Models.Game",
+        "Name": "hotel",
+        "Type": "DatabaseLibrary.Models.Hotel",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Task3.Controllers.GamesController",
+    "ContainingType": "Task3.Controllers.HotelController",
     "Method": "Get",
-    "RelativePath": "api/Games/{id}",
+    "RelativePath": "api/Hotel/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -42,9 +42,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Task3.Controllers.GamesController",
+    "ContainingType": "Task3.Controllers.HotelController",
     "Method": "Put",
-    "RelativePath": "api/Games/{id}",
+    "RelativePath": "api/Hotel/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -55,17 +55,17 @@
         "IsRequired": true
       },
       {
-        "Name": "game",
-        "Type": "DatabaseLibrary.Models.Game",
+        "Name": "hotel",
+        "Type": "DatabaseLibrary.Models.Hotel",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Task3.Controllers.GamesController",
+    "ContainingType": "Task3.Controllers.HotelController",
     "Method": "Delete",
-    "RelativePath": "api/Games/{id}",
+    "RelativePath": "api/Hotel/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fetma\\OneDrive\\Рабочий стол\\AdvisorApp\\AdvisorApp\\AdvisorApp.csproj",
+      "projectUniqueName": "C:\\Users\\fetma\\OneDrive\\Рабочий стол\\ByteCodeMiau\\AdvisorApp\\AdvisorApp\\AdvisorApp.csproj",
       "projectName": "AdvisorApp",
-      "projectPath": "C:\\Users\\fetma\\OneDrive\\Рабочий стол\\AdvisorApp\\AdvisorApp\\AdvisorApp.csproj",
+      "projectPath": "C:\\Users\\fetma\\OneDrive\\Рабочий стол\\ByteCodeMiau\\AdvisorApp\\AdvisorApp\\AdvisorApp.csproj",
       "packagesPath": "C:\\Users\\fetma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fetma\\OneDrive\\Рабочий стол\\AdvisorApp\\AdvisorApp\\obj\\",
+      "outputPath": "C:\\Users\\fetma\\OneDrive\\Рабочий стол\\ByteCodeMiau\\AdvisorApp\\AdvisorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

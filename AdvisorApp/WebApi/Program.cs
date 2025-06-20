@@ -4,11 +4,11 @@ using DatabaseLibrary.Repositories;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-//string connectionString = "Data Source=mssql;Initial Catalog=ispp3104;Persist Security Info=True;User ID=ispp3104;Password=3104;Trust Server Certificate=True";
-string connectionString = "Data Source=zombatka;Integrated Security=True;Trust Server Certificate=True";
+string dbPath = Path.Combine(Environment.CurrentDirectory,"database.db");
+string connectionString = $"Data Source={dbPath}";
 
-builder.Services.AddSingleton<IDatabaseFactory>(new MsSqlFactory(connectionString));
-builder.Services.AddScoped<GamesRepository>();
+builder.Services.AddSingleton<IDatabaseFactory>(new SqliteFactory(connectionString));
+builder.Services.AddScoped<HotelRepository>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

@@ -5,10 +5,10 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Games": {
+    "/api/Hotel": {
       "get": {
         "tags": [
-          "Games"
+          "Hotel"
         ],
         "responses": {
           "200": {
@@ -18,23 +18,23 @@
       },
       "post": {
         "tags": [
-          "Games"
+          "Hotel"
         ],
         "requestBody": {
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Game"
+                "$ref": "#/components/schemas/Hotel"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Game"
+                "$ref": "#/components/schemas/Hotel"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Game"
+                "$ref": "#/components/schemas/Hotel"
               }
             }
           }
@@ -46,10 +46,10 @@
         }
       }
     },
-    "/api/Games/{id}": {
+    "/api/Hotel/{id}": {
       "get": {
         "tags": [
-          "Games"
+          "Hotel"
         ],
         "parameters": [
           {
@@ -70,7 +70,7 @@
       },
       "put": {
         "tags": [
-          "Games"
+          "Hotel"
         ],
         "parameters": [
           {
@@ -87,17 +87,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Game"
+                "$ref": "#/components/schemas/Hotel"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Game"
+                "$ref": "#/components/schemas/Hotel"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Game"
+                "$ref": "#/components/schemas/Hotel"
               }
             }
           }
@@ -110,7 +110,7 @@
       },
       "delete": {
         "tags": [
-          "Games"
+          "Hotel"
         ],
         "parameters": [
           {
@@ -133,14 +133,18 @@
   },
   "components": {
     "schemas": {
-      "Game": {
+      "Hotel": {
         "type": "object",
         "properties": {
-          "id": {
+          "hotelId": {
             "type": "integer",
             "format": "int32"
           },
-          "title": {
+          "cityId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "hotelName": {
             "type": "string",
             "nullable": true
           },
@@ -148,13 +152,9 @@
             "type": "string",
             "nullable": true
           },
-          "publicationYear": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "price": {
-            "type": "number",
-            "format": "double"
+          "siteLink": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
