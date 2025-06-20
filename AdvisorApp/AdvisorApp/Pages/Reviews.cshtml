@@ -1,0 +1,8 @@
+﻿@page
+@model AdvisorApp.Pages.ReviewsModel
+@{
+	foreach (var review in Model.Reviews)
+	{
+		<p>@review.ReviewText</p>
+	}
+}
