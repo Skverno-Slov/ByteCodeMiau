@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\",
+  "WorkspaceRootPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\knowyourhome\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\knowyourhome\\pages\\hotelspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\hotelspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\knowyourhome\\viewmodel\\hotelsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\viewmodel\\hotelsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\knowyourhome\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\knowyourhome\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\knowyourhome\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\knowyourhome\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\databaselibrary\\repositories\\entertamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\databaselibrary\\repositories\\entertamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\repositories\\entertamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\knowyourhome\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\viewmodel\\hotelsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\viewmodel\\hotelsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\knowyourhome\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\knowyourhome\\pages\\hotelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\pages\\hotelspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\hotelspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\pages\\hotelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\hotelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\databaselibrary\\database\\sqlitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\databaselibrary\\database\\sqlitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\database\\sqlitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\databaselibrary\\models\\entertament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\databaselibrary\\models\\entertament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\models\\entertament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\knowyourhome\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\databaselibrary\\database\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\databaselibrary\\database\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\database\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.01.01\\bytecode\\databaselibrary\\databaselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\databaselibrary\\databaselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\databaselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -74,54 +74,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "KnowYourHome\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\AssemblyInfo.cs",
               "RelativeToolTip": "KnowYourHome\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T15:52:21.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T15:52:21.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HotelsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\ViewModel\\HotelsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\ViewModel\\HotelsViewModel.cs",
               "RelativeDocumentMoniker": "KnowYourHome\\ViewModel\\HotelsViewModel.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\ViewModel\\HotelsViewModel.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\ViewModel\\HotelsViewModel.cs",
               "RelativeToolTip": "KnowYourHome\\ViewModel\\HotelsViewModel.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwC0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T14:43:21.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HotelsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml.cs",
               "RelativeDocumentMoniker": "KnowYourHome\\Pages\\HotelsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml.cs",
               "RelativeToolTip": "KnowYourHome\\Pages\\HotelsPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T14:42:50.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "HotelsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml",
               "RelativeDocumentMoniker": "KnowYourHome\\Pages\\HotelsPage.xaml",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml",
               "RelativeToolTip": "KnowYourHome\\Pages\\HotelsPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-21T14:41:34.447Z",
@@ -129,75 +128,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml.cs",
               "RelativeDocumentMoniker": "KnowYourHome\\Pages\\HomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml.cs",
               "RelativeToolTip": "KnowYourHome\\Pages\\HomePage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:39:20.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T14:39:20.333Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml",
               "RelativeDocumentMoniker": "KnowYourHome\\Pages\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml",
               "RelativeToolTip": "KnowYourHome\\Pages\\HomePage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-21T14:35:56.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T14:35:56.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\ViewModel\\BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\ViewModel\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "KnowYourHome\\ViewModel\\BaseViewModel.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\ViewModel\\BaseViewModel.cs",
               "RelativeToolTip": "KnowYourHome\\ViewModel\\BaseViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:30:48.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T14:30:48.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\ViewModel\\HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\ViewModel\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "KnowYourHome\\ViewModel\\HomeViewModel.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\ViewModel\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\ViewModel\\HomeViewModel.cs",
               "RelativeToolTip": "KnowYourHome\\ViewModel\\HomeViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T14:29:39.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\RelayCommand.cs",
               "RelativeDocumentMoniker": "KnowYourHome\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\RelayCommand.cs",
               "RelativeToolTip": "KnowYourHome\\RelayCommand.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T14:26:57.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "EntertamentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\DataBaseLibrary\\Repositories\\EntertamentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\Repositories\\EntertamentRepository.cs",
               "RelativeDocumentMoniker": "DataBaseLibrary\\Repositories\\EntertamentRepository.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\DataBaseLibrary\\Repositories\\EntertamentRepository.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\Repositories\\EntertamentRepository.cs",
               "RelativeToolTip": "DataBaseLibrary\\Repositories\\EntertamentRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAC6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,78 +204,72 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Entertament.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\DataBaseLibrary\\Models\\Entertament.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\Models\\Entertament.cs",
               "RelativeDocumentMoniker": "DataBaseLibrary\\Models\\Entertament.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\DataBaseLibrary\\Models\\Entertament.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\Models\\Entertament.cs",
               "RelativeToolTip": "DataBaseLibrary\\Models\\Entertament.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T13:58:21.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T13:58:21.868Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "DataBaseLibrary",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\DataBaseLibrary\\DataBaseLibrary.csproj",
+              "Title": "DataBaseLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBaseLibrary.csproj",
               "RelativeDocumentMoniker": "DataBaseLibrary\\DataBaseLibrary.csproj",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\DataBaseLibrary\\DataBaseLibrary.csproj",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBaseLibrary.csproj",
               "RelativeToolTip": "DataBaseLibrary\\DataBaseLibrary.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-21T13:56:55.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T13:56:55.168Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "SqliteFactory.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\DataBaseLibrary\\DataBase\\SqliteFactory.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBase\\SqliteFactory.cs",
               "RelativeDocumentMoniker": "DataBaseLibrary\\DataBase\\SqliteFactory.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\DataBaseLibrary\\DataBase\\SqliteFactory.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBase\\SqliteFactory.cs",
               "RelativeToolTip": "DataBaseLibrary\\DataBase\\SqliteFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T13:56:43.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T13:56:43.054Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "IDbConnectionFactory.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\DataBaseLibrary\\DataBase\\IDbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBase\\IDbConnectionFactory.cs",
               "RelativeDocumentMoniker": "DataBaseLibrary\\DataBase\\IDbConnectionFactory.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\DataBaseLibrary\\DataBase\\IDbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBase\\IDbConnectionFactory.cs",
               "RelativeToolTip": "DataBaseLibrary\\DataBase\\IDbConnectionFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T13:52:00.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T13:52:00.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\MainWindow.xaml",
               "RelativeDocumentMoniker": "KnowYourHome\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\MainWindow.xaml",
               "RelativeToolTip": "KnowYourHome\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-21T13:49:13.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T13:49:13.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "KnowYourHome\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\KnowYourHome\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\MainWindow.xaml.cs",
               "RelativeToolTip": "KnowYourHome\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T13:49:11.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T13:49:11.13Z"
             }
           ]
         }

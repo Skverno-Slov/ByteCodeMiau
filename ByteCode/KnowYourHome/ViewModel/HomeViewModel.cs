@@ -17,7 +17,7 @@ namespace KnowYourHome
 
         private void NavigateToHotels()
         {
-            var hotelsPage = new HotelsPage();
+            var hotelsPage = new HotelsPage(_frame);
             _frame.Navigate(hotelsPage);
         }
     }

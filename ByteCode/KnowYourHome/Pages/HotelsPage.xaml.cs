@@ -8,10 +8,10 @@ namespace KnowYourHome
     /// </summary>
     public partial class HotelsPage : Page
     {
-        public HotelsPage()
+        public HotelsPage(Frame frame)
         {
             InitializeComponent();
-            DataContext = new HotelsViewModel(FindName("MainFrame") as Frame);
+            DataContext = new HotelsViewModel(frame.FindName("MainFrame") as Frame);
         }
     }
 }

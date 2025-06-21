@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f12tpNpkjBE=",
+  "dgSpecHash": "PvFwUScKASI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.01.01\\ByteCode\\DataBaseLibrary\\DataBaseLibrary.csproj",
+  "projectFilePath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBaseLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\THUNDER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\THUNDER\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

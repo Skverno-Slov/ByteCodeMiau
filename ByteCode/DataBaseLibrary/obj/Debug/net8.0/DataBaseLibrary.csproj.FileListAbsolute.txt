@@ -11,3 +11,16 @@ C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\ByteCode\DataBaseLibrar
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\ByteCode\DataBaseLibrary\obj\Debug\net8.0\refint\DataBaseLibrary.dll
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\ByteCode\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.pdb
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.01.01\ByteCode\DataBaseLibrary\obj\Debug\net8.0\ref\DataBaseLibrary.dll
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\DataBaseLibrary\bin\Debug\net8.0\DataBaseLibrary.deps.json
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\DataBaseLibrary\bin\Debug\net8.0\DataBaseLibrary.dll
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\DataBaseLibrary\bin\Debug\net8.0\DataBaseLibrary.pdb
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.csproj.AssemblyReference.cache
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.AssemblyInfoInputs.cache
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.AssemblyInfo.cs
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.sourcelink.json
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.dll
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\DataBaseLibrary\obj\Debug\net8.0\refint\DataBaseLibrary.dll
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\DataBaseLibrary\obj\Debug\net8.0\DataBaseLibrary.pdb
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\DataBaseLibrary\obj\Debug\net8.0\ref\DataBaseLibrary.dll
