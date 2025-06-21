@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "Task3.Controllers.EntertainmentController",
+    "ContainingType": "WebApi.Controllers.CityController",
     "Method": "Get",
-    "RelativePath": "api/Entertainment",
+    "RelativePath": "api/City",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -10,25 +10,25 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Task3.Controllers.EntertainmentController",
+    "ContainingType": "WebApi.Controllers.CityController",
     "Method": "Post",
-    "RelativePath": "api/Entertainment",
+    "RelativePath": "api/City",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "entertainment",
-        "Type": "DatabaseLibrary.Models.Entertainment",
+        "Name": "city",
+        "Type": "DatabaseLibrary.Models.City",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Task3.Controllers.EntertainmentController",
+    "ContainingType": "WebApi.Controllers.CityController",
     "Method": "Get",
-    "RelativePath": "api/Entertainment/{id}",
+    "RelativePath": "api/City/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -42,9 +42,88 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Task3.Controllers.EntertainmentController",
+    "ContainingType": "WebApi.Controllers.CityController",
     "Method": "Put",
-    "RelativePath": "api/Entertainment/{id}",
+    "RelativePath": "api/City/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "city",
+        "Type": "DatabaseLibrary.Models.City",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.CityController",
+    "Method": "Delete",
+    "RelativePath": "api/City/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task3.Controllers.EntertamentController",
+    "Method": "Get",
+    "RelativePath": "api/Entertament",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task3.Controllers.EntertamentController",
+    "Method": "Post",
+    "RelativePath": "api/Entertament",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entertament",
+        "Type": "DatabaseLibrary.Models.Entertament",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task3.Controllers.EntertamentController",
+    "Method": "Get",
+    "RelativePath": "api/Entertament/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task3.Controllers.EntertamentController",
+    "Method": "Put",
+    "RelativePath": "api/Entertament/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -56,16 +135,95 @@
       },
       {
         "Name": "entertainment",
-        "Type": "DatabaseLibrary.Models.Entertainment",
+        "Type": "DatabaseLibrary.Models.Entertament",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Task3.Controllers.EntertainmentController",
+    "ContainingType": "Task3.Controllers.EntertamentController",
     "Method": "Delete",
-    "RelativePath": "api/Entertainment/{id}",
+    "RelativePath": "api/Entertament/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.EntertamentTypeController",
+    "Method": "Get",
+    "RelativePath": "api/EntertamentType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.EntertamentTypeController",
+    "Method": "Post",
+    "RelativePath": "api/EntertamentType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entertamentType",
+        "Type": "DatabaseLibrary.Models.EntertamentType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.EntertamentTypeController",
+    "Method": "Get",
+    "RelativePath": "api/EntertamentType/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.EntertamentTypeController",
+    "Method": "Put",
+    "RelativePath": "api/EntertamentType/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "entertamentType",
+        "Type": "DatabaseLibrary.Models.EntertamentType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.EntertamentTypeController",
+    "Method": "Delete",
+    "RelativePath": "api/EntertamentType/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -145,6 +303,164 @@
     "ContainingType": "WebApi.Controllers.ReviewController",
     "Method": "Delete",
     "RelativePath": "api/Review/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.TuristTypeController",
+    "Method": "Get",
+    "RelativePath": "api/TuristType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.TuristTypeController",
+    "Method": "Post",
+    "RelativePath": "api/TuristType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "turistType",
+        "Type": "DatabaseLibrary.Models.TuristType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.TuristTypeController",
+    "Method": "Get",
+    "RelativePath": "api/TuristType/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.TuristTypeController",
+    "Method": "Put",
+    "RelativePath": "api/TuristType/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "turistType",
+        "Type": "DatabaseLibrary.Models.TuristType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.TuristTypeController",
+    "Method": "Delete",
+    "RelativePath": "api/TuristType/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.UserController",
+    "Method": "Post",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "DatabaseLibrary.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.UserController",
+    "Method": "Put",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "user",
+        "Type": "DatabaseLibrary.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.UserController",
+    "Method": "Delete",
+    "RelativePath": "api/User/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

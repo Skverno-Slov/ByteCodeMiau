@@ -19,10 +19,10 @@ namespace DatabaseLibrary.Repositories
         public Review? GetById(int id)
             => _db.QueryFirstOrDefault<Review>("SELECT * FROM Review WHERE Review=@id", new { id });
         public void Create(Review review)
-            => _db.Execute(@"INSERT INTO Review (EntertainmentId, UserId, ReviewText, PublicationDate, Rating) 
-                            VALUES (@EntertainmentId, @UserId, @ReviewText, @PublicationDate, @Rating);", review);
+            => _db.Execute(@"INSERT INTO Review (EntertamentId, UserId, ReviewText, PublicationDate, Rating) 
+                            VALUES (@EntertamentId, @UserId, @ReviewText, @PublicationDate, @Rating);", review);
         public void Update(Review review)
-            => _db.Execute("UPDATE Review SET EntertainmentId=@EntertainmentId, UserId=@UserId, ReviewText=@ReviewText, PublicationDate=@PublicationDate, Rating=@Rating WHERE Review=@ReviewId", review);
+            => _db.Execute("UPDATE Review SET EntertamentId=@EntertamentId, UserId=@UserId, ReviewText=@ReviewText, PublicationDate=@PublicationDate, Rating=@Rating WHERE Review=@ReviewId", review);
         public void Delete(int id)
             => _db.Execute("DELETE FROM Review WHERE Review=@id", new { id });
     }

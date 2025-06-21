@@ -20,7 +20,7 @@ namespace WebApiServices
 
         public async Task UpdateReviewAsync(Review review)
         {
-            var response = await _client.PutAsJsonAsync($"review/{review.EntertainmentId}", review);
+            var response = await _client.PutAsJsonAsync($"review/{review.EntertamentId}", review);
             response.EnsureSuccessStatusCode();
         }
 

@@ -5,39 +5,39 @@ namespace Task3.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class EntertainmentController(EntertainmentRepository repository) : ControllerBase
+    public class EntertamentController(EntertamentRepository repository) : ControllerBase
     {
-        private readonly EntertainmentRepository _repository = repository;
-        // GET: api/<GamesController>
+        private readonly EntertamentRepository _repository = repository;
+
         [HttpGet]
         public IActionResult Get()
             => Ok(_repository.GetAll());
 
-        // GET api/<GamesController>/5
+
         [HttpGet("{id}")]
         public IActionResult Get(int id)
             => Ok(_repository.GetById(id));
 
-        // POST api/<GamesController>
+
         [HttpPost]
-        public IActionResult Post([FromBody] Entertainment entertainment)
+        public IActionResult Post([FromBody] Entertament entertament)
         {
-            _repository.Create(entertainment);
+            _repository.Create(entertament);
             return NoContent();
         }
 
-        // PUT api/<GamesController>/5
+
         [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] Entertainment entertainment)
+        public IActionResult Put(int id, [FromBody] Entertament entertainment)
         {
-            if (id != entertainment.EntertainmentId)
+            if (id != entertainment.EntertamentId)
                 return NotFound();
 
             _repository.Update(entertainment);
             return NoContent();
         }
 
-        // DELETE api/<GamesController>/5
+
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {

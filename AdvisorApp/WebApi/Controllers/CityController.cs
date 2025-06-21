@@ -1,45 +1,42 @@
 ﻿using DatabaseLibrary.Models;
 using DatabaseLibrary.Repositories;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+
+// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ReviewController(ReviewRepository repository) : ControllerBase
+    public class CityController(CityRepository repository) : ControllerBase
     {
-        private readonly ReviewRepository _repository = repository;
-        // GET: api/<GamesController>
+        private readonly CityRepository _repository = repository;
+
         [HttpGet]
         public IActionResult Get()
             => Ok(_repository.GetAll());
 
-        // GET api/<GamesController>/5
         [HttpGet("{id}")]
         public IActionResult Get(int id)
             => Ok(_repository.GetById(id));
 
-        // POST api/<GamesController>
         [HttpPost]
-        public IActionResult Post([FromBody] Review review)
+        public IActionResult Post([FromBody] City city)
         {
-            _repository.Create(review);
+            _repository.Create(city);
             return NoContent();
         }
 
-        // PUT api/<GamesController>/5
         [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] Review review)
+        public IActionResult Put(int id, [FromBody] City city)
         {
-            if (id != review.ReviewId)
+            if (id != city.CityId)
                 return NotFound();
 
-            _repository.Update(review);
+            _repository.Update(city);
             return NoContent();
         }
 
-        // DELETE api/<GamesController>/5
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
