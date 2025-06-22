@@ -7,10 +7,22 @@
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="HomePage" Background="White">
+    <Page.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+    </Page.Resources>
     <DockPanel>
-        <Button Content="Отели" Width="100" Height="30" Command="{Binding NavigateToHotelsCommand}" DockPanel.Dock="Top"/>
-        <Button Content="Рестораны" Width="100" Height="30" Command="{Binding NavigateToRestaurantsCommand}" DockPanel.Dock="Top"/>
-        <Button Content="Памятники" Width="100" Height="30" Command="{Binding NavigateToMonumentsCommand}" DockPanel.Dock="Top"/>
-        <Button Content="Маршруты" Width="100" Height="30" Command="{Binding NavigateToRoutesCommand}" DockPanel.Dock="Top"/>
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Отели"  Command="{Binding NavigateToHotelsCommand}" DockPanel.Dock="Top"/>
+            <Button Content="Рестораны"  Command="{Binding NavigateToRestaurantsCommand}" DockPanel.Dock="Top"/>
+            <Button Content="Памятники"  Command="{Binding NavigateToMonumentsCommand}" DockPanel.Dock="Top"/>
+        </StackPanel>
+        <StackPanel  VerticalAlignment="Center">
+            <Button Content="Маршруты" Command="{Binding NavigateToRoutesCommand}" DockPanel.Dock="Top"/>
+            <Button Content="Создать точку" Command="{Binding NavigateToCreatePointCommand}" DockPanel.Dock="Top"/>
+        </StackPanel>
     </DockPanel>
 </Page>

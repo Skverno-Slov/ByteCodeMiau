@@ -309,3 +309,13 @@ C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\ByteCode\KnowYourHo
 C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Pages\RoutesPage.baml
 C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\UserControls\EntertamentUserControl.g.cs
 C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\UserControls\EntertamentUserControl.baml
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Pages\MonumentsPage.g.cs
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Pages\RestaurantsPage.g.cs
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Pages\RoutesPage.g.cs
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\UserControls\EntertamentUserControl.g.cs
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Pages\MonumentsPage.baml
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Pages\RestaurantsPage.baml
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Pages\RoutesPage.baml
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\UserControls\EntertamentUserControl.baml
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Pages\CreatePointPage.g.cs
+C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Pages\CreatePointPage.baml

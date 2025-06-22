@@ -7,7 +7,7 @@
              mc:Ignorable="d" 
              d:DesignHeight="48" d:DesignWidth="500">
     <StackPanel Orientation="Horizontal">
-        <Image x:Name="EntertamentImage" Source="/Images/hotel.jpg" Stretch="Fill" Width="48" Height="48"/>
+        <Image x:Name="EntertamentImage" Source="{Binding ImageName}" Stretch="Fill" Width="48" Height="48"/>
         <TextBlock Text="{Binding EntertamentName}"/>
         <TextBlock Text="{Binding Description}"/>
         <TextBlock Text="{Binding Price}"/>
