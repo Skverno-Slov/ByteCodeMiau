@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using KnowYourHome.UserControls;
+using System.Windows;
 using System.Windows.Controls;
 
 namespace KnowYourHome
@@ -12,6 +13,20 @@ namespace KnowYourHome
         {
             InitializeComponent();
             DataContext = new HotelsViewModel(frame.FindName("MainFrame") as Frame);
+        }
+
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            var hotels = (DataContext as HotelsViewModel).EntertainmentItems;
+
+            foreach (var hotel in hotels)
+            {
+                EntertamentUserControl entertamentUserControl = new EntertamentUserControl()
+                { 
+                    DataContext = hotel
+                };
+                HotelsStackPanel.Children.Add(entertamentUserControl);
+            }
         }
     }
 }

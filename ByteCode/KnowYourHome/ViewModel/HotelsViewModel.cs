@@ -1,6 +1,7 @@
-﻿using DataBaseLibrary.DataBase;
+﻿
+using DataBaseLibrary.DataBase;
 using DataBaseLibrary.Models;
-using DataBaseLibrary.Repositrories;
+using DataBaseLibrary.Repositories;
 using System.Collections.ObjectModel;
 using System.Windows;
 using System.Windows.Controls;
@@ -30,7 +31,7 @@ namespace KnowYourHome
             try
             {
                 string connectionString = "Data Source=DataBase.db;";
-                IDbConnectionFactory factory = new DataBaseLibrary.DataBase.SqliteFactory(connectionString);
+                IDbConnectionFactory factory = new SqliteFactory(connectionString);
 
                 EntertamentRepository repository = new(factory);
                 var hotels = repository.GetAllHotels();

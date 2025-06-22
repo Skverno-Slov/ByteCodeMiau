@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="KnowYourHome.UserControls.EntertamentUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:KnowYourHome.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="48" d:DesignWidth="500">
+    <StackPanel Orientation="Horizontal">
+        <Image x:Name="EntertamentImage" Source="/Images/hotel.jpg" Stretch="Fill" Width="48" Height="48"/>
+        <TextBlock Text="{Binding EntertamentName}"/>
+        <TextBlock Text="{Binding Description}"/>
+        <TextBlock Text="{Binding Price}"/>
+        <TextBlock Text="{Binding SiteLink}"/>
+        <Button Content="Подробнее" x:Name="MoreButton" Click="MoreButton_Click"/>
+    </StackPanel>
+</UserControl>

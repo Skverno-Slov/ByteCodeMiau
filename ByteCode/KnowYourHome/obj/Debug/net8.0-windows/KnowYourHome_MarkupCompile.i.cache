@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\
 KnowYourHome
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\THUNDER\OneDrive\Desktop\Repositories\ByteCodeMiau\ByteCode\KnowYourHome\App.xaml
-3918273672
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\ByteCode\KnowYourHome\App.xaml
+71159409718
 
-121797853074
-221-1337804746
-MainWindow.xaml;Pages\HomePage.xaml;Pages\HotelsPage.xaml;
+192125430296
+2211797117084
+MainWindow.xaml;Pages\HomePage.xaml;Pages\HotelsPage.xaml;Pages\MonumentsPage.xaml;Pages\RestaurantsPage.xaml;Pages\RoutesPage.xaml;UserControls\EntertamentUserControl.xaml;
 
 True
 

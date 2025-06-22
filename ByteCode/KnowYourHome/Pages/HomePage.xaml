@@ -9,5 +9,8 @@
       Title="HomePage" Background="White">
     <DockPanel>
         <Button Content="Отели" Width="100" Height="30" Command="{Binding NavigateToHotelsCommand}" DockPanel.Dock="Top"/>
+        <Button Content="Рестораны" Width="100" Height="30" Command="{Binding NavigateToRestaurantsCommand}" DockPanel.Dock="Top"/>
+        <Button Content="Памятники" Width="100" Height="30" Command="{Binding NavigateToMonumentsCommand}" DockPanel.Dock="Top"/>
+        <Button Content="Маршруты" Width="100" Height="30" Command="{Binding NavigateToRoutesCommand}" DockPanel.Dock="Top"/>
     </DockPanel>
 </Page>

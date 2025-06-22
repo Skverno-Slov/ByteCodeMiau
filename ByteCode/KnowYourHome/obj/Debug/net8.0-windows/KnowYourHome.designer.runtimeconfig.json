@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\THUNDER\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\THUNDER\\.nuget\\packages",
+      "C:\\Users\\fetma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fetma\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
