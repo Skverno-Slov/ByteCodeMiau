@@ -17,6 +17,9 @@
     <Compile Update="Pages\RoutesPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Pages\TestMapPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="UserControls\EntertamentUserControl.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
