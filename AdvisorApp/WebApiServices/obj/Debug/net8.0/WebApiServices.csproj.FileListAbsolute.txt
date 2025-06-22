@@ -3,3 +3,14 @@ C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiSe
 C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\WebApiServices.AssemblyInfo.cs
 C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\WebApiServices.csproj.CoreCompileInputs.cache
 C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\WebApiServices.sourcelink.json
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\bin\Debug\net8.0\WebApiServices.deps.json
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\bin\Debug\net8.0\WebApiServices.dll
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\bin\Debug\net8.0\WebApiServices.pdb
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\bin\Debug\net8.0\DatabaseLibrary.dll
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\bin\Debug\net8.0\DatabaseLibrary.pdb
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\WebApiServices.csproj.AssemblyReference.cache
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\WebApiSe.6B469CD1.Up2Date
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\WebApiServices.dll
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\refint\WebApiServices.dll
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\WebApiServices.pdb
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\AdvisorApp\WebApiServices\obj\Debug\net8.0\ref\WebApiServices.dll
