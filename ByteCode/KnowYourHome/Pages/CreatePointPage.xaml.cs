@@ -34,58 +34,66 @@ namespace KnowYourHome.Pages
 
         private void AddToTableButton_Click(object sender, RoutedEventArgs e)
         {
-            string connectionString = "Data Source=DataBase.db;";
-            IDbConnectionFactory factory = new DataBaseLibrary.DataBase.SqliteFactory(connectionString);
-
-            EntertamentRepository repository = new(factory);
-
-            if (!decimal.TryParse(txtLatitude.Text, out decimal latitude) ||
-            !decimal.TryParse(txtLongitude.Text, out decimal longitude) ||
-            !decimal.TryParse(txtPrice.Text, out decimal price))
+            try
             {
-                MessageBox.Show("Некорректный ввод");
-                return;
+                string connectionString = "Data Source=DataBase.db;";
+                IDbConnectionFactory factory = new DataBaseLibrary.DataBase.SqliteFactory(connectionString);
+
+                EntertamentRepository repository = new(factory);
+
+                if (!decimal.TryParse(txtLatitude.Text, out decimal latitude) ||
+                !decimal.TryParse(txtLongitude.Text, out decimal longitude) ||
+                !decimal.TryParse(txtPrice.Text, out decimal price))
+                {
+                    MessageBox.Show("Некорректный ввод");
+                    return;
+                }
+                int selectedCityId = (int)comboCity.SelectedValue;
+                int selectedEntertamentTypeId = (int)comboEntertamentType.SelectedValue;
+                int selectedTuristTypeId = (int)comboTuristType.SelectedValue;
+
+                string name = txtEntertamentName.Text;
+                string address = txtAddress.Text;
+                string description = txtDescription.Text;
+                string siteLink = txtSiteLink.Text;
+
+                string imagesFolder = null;
+                string imageFileName = null;
+                if (_selectedImagePath != null)
+                {
+                    string extension = Path.GetExtension(_selectedImagePath);
+                    imageFileName = Guid.NewGuid().ToString() + extension;
+
+                    imagesFolder = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Images");
+
+                    if (!Directory.Exists(imagesFolder))
+                        Directory.CreateDirectory(imagesFolder);
+
+                    string destPath = Path.Combine(imagesFolder, imageFileName);
+                    File.Copy(_selectedImagePath, destPath, true);
+                }
+
+                Entertament entertament = new()
+                {
+                    CityId = selectedCityId,
+                    EntertamentTypeId = selectedEntertamentTypeId,
+                    TuristTypeId = selectedTuristTypeId,
+                    ImageName = $"{imagesFolder}\\{imageFileName}",
+                    Address = address,
+                    EntertamentName = name,
+                    Description = description,
+                    Latitude = latitude,
+                    Longitude = longitude,
+                    SiteLink = siteLink,
+                    Price = price
+                };
+                repository.Create(entertament);
             }
-            int selectedCityId = (int)comboCity.SelectedValue;
-            int selectedEntertamentTypeId = (int)comboEntertamentType.SelectedValue;
-            int selectedTuristTypeId = (int)comboTuristType.SelectedValue;
-
-            string name = txtEntertamentName.Text;
-            string address = txtAddress.Text;
-            string description = txtDescription.Text;
-            string siteLink = txtSiteLink.Text;
-
-            string imagesFolder = null;
-            string imageFileName = null;
-            if (_selectedImagePath != null)
+            catch
             {
-                string extension = Path.GetExtension(_selectedImagePath);
-                imageFileName = Guid.NewGuid().ToString() + extension;
-
-                imagesFolder = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Images");
-
-                if (!Directory.Exists(imagesFolder))
-                    Directory.CreateDirectory(imagesFolder);
-
-                string destPath = Path.Combine(imagesFolder, imageFileName);
-                File.Copy(_selectedImagePath, destPath, true);
+                MessageBox.Show("Ошибка подключения", "Ошибка");
             }
-
-            Entertament entertament = new()
-            {
-                CityId = selectedCityId,
-                EntertamentTypeId = selectedEntertamentTypeId,
-                TuristTypeId = selectedTuristTypeId,
-                ImageName = $"{imagesFolder}\\{imageFileName}",
-                Address = address,
-                EntertamentName = name,
-                Description = description,
-                Latitude = latitude,
-                Longitude = longitude,
-                SiteLink = siteLink,
-                Price = price
-            };
-            repository.Create(entertament);
+            MessageBox.Show("Добавлена запись","Успех");
         }
 
         private void LoadComboBoxData()

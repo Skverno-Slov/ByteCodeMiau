@@ -1,4 +1,7 @@
-﻿using System;
+﻿using DataBaseLibrary.Models;
+using KnowYourHome.UserControls;
+using KnowYourHome.Windows;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,6 +27,29 @@ namespace KnowYourHome.Pages
         {
             InitializeComponent();
             DataContext = new MonumentsViewModel(frame.FindName("MainFrame") as Frame);
+        }
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            var restaurants = (DataContext as MonumentsViewModel).EntertainmentItems;
+
+            foreach (var hotel in restaurants)
+            {
+                EntertamentUserControl entertamentUserControl = new EntertamentUserControl(hotel)
+                {
+                    DataContext = hotel
+                };
+                entertamentUserControl.MoreButtonClicked += EntertamentUserControl_MoreButtonClicked;
+                MonumentsStackPanel.Children.Add(entertamentUserControl);
+            }
+        }
+
+        private void EntertamentUserControl_MoreButtonClicked(object? sender, RoutedEventArgs e)
+        {
+            EntertamentWindow entertamentWindow = new()
+            {
+                DataContext = (sender as EntertamentUserControl).DataContext as Entertament
+            };
+            entertamentWindow.Show();
         }
     }
 }

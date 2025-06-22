@@ -1,0 +1,25 @@
+﻿<Window x:Class="KnowYourHome.Windows.EntertamentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KnowYourHome.Windows"
+        xmlns:gmaps="clr-namespace:GMap.NET.WindowsPresentation;assembly=GMap.NET.WindowsPresentation"
+        mc:Ignorable="d"
+        Title="Подробнее" Height="450" Width="1000" Loaded="Window_Loaded" Background="#DFE2F2" FontSize="20">
+    <Viewbox>
+        <Canvas Width="800" Height="450">
+            <gmaps:GMapControl x:Name="mapView" Loaded="mapView_Loaded" Width="307" Height="340" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Left="28" Canvas.Top="47"/>
+            <StackPanel Canvas.Left="362" Canvas.Top="48" HorizontalAlignment="Center" Height="339" VerticalAlignment="Top">
+                <TextBlock Text="{Binding EntertamentName}" HorizontalAlignment="Left" FontSize="30" TextWrapping="Wrap" Width="429"/>
+                <TextBlock Text="{Binding Description}" FontSize="25" Width="423" TextWrapping="Wrap"/>
+                <TextBlock Text="Отзывы" FontSize="20"/>
+
+                <StackPanel Orientation="Horizontal" Margin="5">
+                    <TextBox Width="325"></TextBox>
+                    <Button>Отправить</Button>
+                </StackPanel>
+            </StackPanel>
+        </Canvas>
+    </Viewbox>
+</Window>

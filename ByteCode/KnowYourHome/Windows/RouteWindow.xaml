@@ -1,0 +1,21 @@
+﻿<Window x:Class="KnowYourHome.Windows.RouteWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KnowYourHome.Windows"
+        xmlns:gmaps="clr-namespace:GMap.NET.WindowsPresentation;assembly=GMap.NET.WindowsPresentation"
+        mc:Ignorable="d"
+        Title="Маршрут" Height="450" Width="1000" Loaded="Window_Loaded" Background="#DFE2F2">
+    <Viewbox>
+        <Canvas Width="800" Height="450">
+            <gmaps:GMapControl x:Name="mapView" Loaded="mapView_Loaded" Width="307" Height="340" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Left="28" Canvas.Top="47"/>
+            <StackPanel Canvas.Left="362" Canvas.Top="48" HorizontalAlignment="Center" Height="339" VerticalAlignment="Top">
+            <TextBlock Text="{Binding EntertamentName}" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="30"/>
+            <TextBlock Text="{Binding Description}" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Top" Width="428" TextWrapping="Wrap"/>
+            <TextBlock Text="Места для посещения: " FontSize="20"/>
+            <TextBlock x:Name="PlacesTextBlock"/>
+            </StackPanel>
+        </Canvas>
+    </Viewbox>
+</Window>

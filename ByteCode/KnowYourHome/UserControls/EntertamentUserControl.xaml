@@ -5,13 +5,22 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:KnowYourHome.UserControls"
              mc:Ignorable="d" 
-             d:DesignHeight="48" d:DesignWidth="500">
-    <StackPanel Orientation="Horizontal">
-        <Image x:Name="EntertamentImage" Source="{Binding ImageName}" Stretch="Fill" Width="48" Height="48"/>
-        <TextBlock Text="{Binding EntertamentName}"/>
-        <TextBlock Text="{Binding Description}"/>
-        <TextBlock Text="{Binding Price}"/>
-        <TextBlock Text="{Binding SiteLink}"/>
-        <Button Content="Подробнее" x:Name="MoreButton" Click="MoreButton_Click"/>
-    </StackPanel>
+              d:DesignHeight="90" d:DesignWidth="700">
+    <DockPanel Margin="3" Background="AliceBlue" Height="90" Width="700">
+        <StackPanel DockPanel.Dock="Left">
+            <Image x:Name="EntertamentImage" Stretch="Fill" Width="90" Height="90" Margin="2"/>
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Right" Orientation="Horizontal">
+            <Button Content="Подробнее" x:Name="MoreButton" Click="MoreButton_Click"/>
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal">
+            <TextBlock x:Name="CityTextBlock" Margin="5"/>
+            <TextBlock x:Name="TuristTypeTextBlock" Margin="5"/>
+        </StackPanel>
+        <StackPanel>
+            <TextBlock Text="{Binding EntertamentName}" FontWeight="Bold" />
+            <TextBlock Text="{Binding Description}" TextWrapping="Wrap"/>
+            <TextBlock Text="{Binding SiteLink}"/>
+        </StackPanel>
+    </DockPanel>
 </UserControl>
