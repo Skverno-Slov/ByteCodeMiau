@@ -21,7 +21,7 @@ namespace KnowYourHome
 
             foreach (var hotel in hotels)
             {
-                EntertamentUserControl entertamentUserControl = new EntertamentUserControl()
+                EntertamentUserControl entertamentUserControl = new EntertamentUserControl(hotel)
                 { 
                     DataContext = hotel
                 };

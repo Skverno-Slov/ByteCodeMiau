@@ -18,8 +18,8 @@ namespace DataBaseLibrary.Repositories
 
         public void Create(Entertament entertament)
             => _db.Execute(@"INSERT INTO Entertament
-        (CityId, EntertamentTypeId, TuristTypeId, Address, EntertamentName, Description, SiteLink, Price)
-        VALUES(@CityId, @EntertamentTypeId, @TuristTypeId, @Address, @EntertamentName, @Description, @SiteLink, @Price);", entertament);
+    (CityId, EntertamentTypeId, TuristTypeId, ImageName, Address, EntertamentName, Description, SiteLink, Latitude, Longitude, Price)
+    VALUES(@CityId, @EntertamentTypeId, @TuristTypeId, @ImageName, @Address, @EntertamentName, @Description, @SiteLink, @Latitude, @Longitude, @Price);", entertament);
 
         public void Update(Entertament entertament) 
             => _db.Execute("UPDATE Entertament SET CityId=@CityId, EntertamentTypeId=@EntertamentTypeId, TuristTypeId=@TuristTypeId, Address=@Address, EntertamentName=@EntertamentName, Description=@Description, SiteLink=@SiteLink, Price=@Price WHERE EntertamentId=@EntertamentId", entertament);

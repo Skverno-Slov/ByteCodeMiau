@@ -1,17 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using DataBaseLibrary.DataBase;
+using DataBaseLibrary.Models;
+using DataBaseLibrary.Repositories;
+using System.IO;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace KnowYourHome.UserControls
 {
@@ -21,14 +14,65 @@ namespace KnowYourHome.UserControls
     public partial class EntertamentUserControl : UserControl
     {
         public event EventHandler<RoutedEventArgs> MoreButtonClicked;
-        public EntertamentUserControl()
+        private object _obj;
+        public EntertamentUserControl(object obj)
         {
+            _obj = obj;
             InitializeComponent();
+            LoadData();
         }
+        private void LoadData()
+        {
+            try
+            {
+                string connectionString = "Data Source=DataBase.db;";
+                IDbConnectionFactory factory = new SqliteFactory(connectionString);
 
+                CityRepository repository = new(factory);
+                City? city = repository.GetById((_obj as Entertament).CityId);
+
+                CityTextBlock.Text = city.CityName;
+            }
+            catch
+            {
+                MessageBox.Show("Ошибка подключения");
+            }
+
+            try
+            {
+                string connectionString = "Data Source=DataBase.db;";
+                IDbConnectionFactory factory = new SqliteFactory(connectionString);
+
+                TuristTypeRepostitory repository = new(factory);
+                TuristType? turistType = repository.GetById((_obj as Entertament).TuristTypeId);
+
+                TuristTypeTextBlock.Text = turistType.TuristTypeName;
+            }
+            catch
+            {
+                MessageBox.Show("Ошибка подключения");
+            }
+        }
         private void MoreButton_Click(object sender, RoutedEventArgs e)
         {
             MoreButtonClicked?.Invoke(this, e);
+        }
+
+        private void UserControl_Loaded(object sender, RoutedEventArgs e)
+        {
+
+            var imagePath = (DataContext as Entertament).ImageName;
+            if (imagePath is null)
+                SetPlaceholder();
+            if (!File.Exists(imagePath))
+                SetPlaceholder();
+        }
+
+        private void SetPlaceholder()
+        {
+            var path = System.IO.Path.Combine(Environment.CurrentDirectory, "images", "placeholder.png");
+            BitmapImage bitmapImage = new BitmapImage(new Uri(path));
+            EntertamentImage.Source = bitmapImage;
         }
     }
 }

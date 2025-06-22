@@ -1,4 +1,5 @@
-﻿using System;
+﻿using KnowYourHome.UserControls;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,6 +25,20 @@ namespace KnowYourHome.Pages
         {
             InitializeComponent();
             DataContext = new MonumentsViewModel(frame.FindName("MainFrame") as Frame);
+        }
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            var restaurants = (DataContext as MonumentsViewModel).EntertainmentItems;
+
+            foreach (var hotel in restaurants)
+            {
+                EntertamentUserControl entertamentUserControl = new EntertamentUserControl(hotel)
+                {
+                    DataContext = hotel
+                };
+
+                MonumentsStackPanel.Children.Add(entertamentUserControl);
+            }
         }
     }
 }

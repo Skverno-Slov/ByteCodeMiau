@@ -14,6 +14,9 @@
     <Compile Update="Pages\RestaurantsPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Pages\RoutePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Pages\RoutesPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -21,6 +24,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="UserControls\EntertamentUserControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\EntertamentWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\RouteWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

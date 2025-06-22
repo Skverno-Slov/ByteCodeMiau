@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KnowYourHome"
         mc:Ignorable="d"
-        Title="MainWindow" Height="726" Width="1024">
+        Title="Узнай наш дом" Height="726" Width="1024">
     <Border Background="#DFE2F2">
     <Viewbox>
         <StackPanel>

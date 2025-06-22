@@ -1996,11 +1996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fetma\\OneDrive\\Рабочий стол\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBaseLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\fetma\\OneDrive\\Рабочий стол\\ByteCodeMiau_OldDesign\\ByteCode\\DataBaseLibrary\\DataBaseLibrary.csproj",
       "projectName": "DataBaseLibrary",
-      "projectPath": "C:\\Users\\fetma\\OneDrive\\Рабочий стол\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBaseLibrary.csproj",
+      "projectPath": "C:\\Users\\fetma\\OneDrive\\Рабочий стол\\ByteCodeMiau_OldDesign\\ByteCode\\DataBaseLibrary\\DataBaseLibrary.csproj",
       "packagesPath": "C:\\Users\\fetma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fetma\\OneDrive\\Рабочий стол\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\obj\\",
+      "outputPath": "C:\\Users\\fetma\\OneDrive\\Рабочий стол\\ByteCodeMiau_OldDesign\\ByteCode\\DataBaseLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

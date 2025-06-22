@@ -1,6 +1,7 @@
 ﻿using DataBaseLibrary.DataBase;
 using DataBaseLibrary.Models;
 using DataBaseLibrary.Repositories;
+using KnowYourHome.Pages;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -17,6 +18,7 @@ namespace KnowYourHome
     {
         public ObservableCollection<Entertament> EntertainmentItems { get; }
         public ICommand NavigateBackCommand { get; }
+        public ICommand NavigateToRouteCommand { get; }
 
         private readonly Frame _frame;
 
@@ -28,6 +30,7 @@ namespace KnowYourHome
 
             LoadData();
             NavigateBackCommand = new RelayCommand(_ => NavigateBack());
+            NavigateToRouteCommand = new RelayCommand(_ => NavigateToRoute());
         }
 
         private void LoadData()
@@ -49,5 +52,11 @@ namespace KnowYourHome
         }
         private void NavigateBack()
             => _frame.GoBack();
+
+        private void NavigateToRoute()
+        {
+            var routePage = new RoutePage(_frame);
+            _frame.Navigate(routePage);
+        }
     }
 }

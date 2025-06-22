@@ -7,13 +7,11 @@
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="HotelsPage" Loaded="Page_Loaded">
-    <Viewbox>
-    <StackPanel>
-        <StackPanel x:Name="HotelsStackPanel"/>
-
-
-        <Button Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="10"
-                Command="{Binding NavigateBackCommand}"/>
-    </StackPanel>
-    </Viewbox>
+    <ScrollViewer Width="800" Height="450" Visibility="Visible">
+        <StackPanel>
+            <StackPanel x:Name="HotelsStackPanel"/>
+            <Button Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="10"
+            Command="{Binding NavigateBackCommand}"/>
+        </StackPanel>
+    </ScrollViewer>
 </Page>

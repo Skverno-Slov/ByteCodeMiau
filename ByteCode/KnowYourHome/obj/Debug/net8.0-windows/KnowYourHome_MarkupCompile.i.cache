@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau_OldDesign\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\
 KnowYourHome
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau\ByteCode\KnowYourHome\App.xaml
-81570415881
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau_OldDesign\ByteCode\KnowYourHome\App.xaml
+12-535800667
 
-202070736876
-2291986848503
-MainWindow.xaml;Pages\HomePage.xaml;Pages\HotelsPage.xaml;Pages\MonumentsPage.xaml;Pages\RestaurantsPage.xaml;Pages\RoutesPage.xaml;Pages\TestMapPage.xaml;UserControls\EntertamentUserControl.xaml;
+26230524329
+229-1095705454
+MainWindow.xaml;Pages\CreatePointPage.xaml;Pages\HomePage.xaml;Pages\HotelsPage.xaml;Pages\MonumentsPage.xaml;Pages\RestaurantsPage.xaml;Pages\RoutePage.xaml;Pages\RoutesPage.xaml;Pages\TestMapPage.xaml;UserControls\EntertamentUserControl.xaml;Windows\EntertamentWindow.xaml;Windows\RouteWindow.xaml;
 
 False
 

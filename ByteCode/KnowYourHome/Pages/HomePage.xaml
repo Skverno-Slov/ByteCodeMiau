@@ -28,7 +28,7 @@
 
         <Button x:Name="navRoutesButton" Content="Маршруты" Width="127" Height="43" 
         BorderThickness="0" Background="Transparent" BorderBrush="Transparent" 
-        FontSize="24" Canvas.Left="713" Canvas.Top="57" HorizontalAlignment="Center" VerticalAlignment="Top" Command="{Binding NavigateToTestMapCommand}"/>
+        FontSize="24" Canvas.Left="713" Canvas.Top="57" HorizontalAlignment="Center" VerticalAlignment="Top" Command="{Binding NavigateToRoutesCommand}"/>
 
         <Grid></Grid>
         <Image Source="\Images\logo.png" Height="108" Width="110" Canvas.Left="122" Canvas.Top="21"/>
@@ -43,5 +43,8 @@
             <Button x:Name="signUpButton" Content="Записаться" FontSize="30" Width="228" 
                     Height="101" Background="Transparent"/>
         </Border>
+        <Button x:Name="navRoutesButton_Копировать" Content="Создать Точку" Width="266" Height="43" 
+            BorderThickness="0" Background="Transparent" BorderBrush="Transparent" 
+            FontSize="24" Canvas.Left="392" Canvas.Top="609" Command="{Binding NavigateToCreatePointCommand}" HorizontalAlignment="Left" VerticalAlignment="Top"/>
     </Canvas>
 </Page>

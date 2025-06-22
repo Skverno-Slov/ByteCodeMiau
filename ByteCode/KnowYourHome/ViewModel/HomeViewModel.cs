@@ -13,6 +13,8 @@ namespace KnowYourHome
         public ICommand NavigateToMonumentsCommand { get; }
         public ICommand NavigateToRoutesCommand { get; }
         public ICommand NavigateToTestMapCommand { get; }
+        public ICommand NavigateToCreatePointCommand { get; }
+
 
         public HomeViewModel(Frame frame)
         {
@@ -22,6 +24,8 @@ namespace KnowYourHome
             NavigateToMonumentsCommand = new RelayCommand(_ => NavigateToMonuments());
             NavigateToRoutesCommand = new RelayCommand(_ => NavigateToRoutes());
             NavigateToTestMapCommand = new RelayCommand(_ => NavigateToTestMap());
+            NavigateToCreatePointCommand = new RelayCommand(_ => NavigateToCreatePoint());
+
         }
 
         private void NavigateToHotels()
@@ -49,5 +53,11 @@ namespace KnowYourHome
             var testMapPage = new TestMapPage(_frame);
             _frame.Navigate(testMapPage);
         }
+        private void NavigateToCreatePoint()
+        {
+            var createPointPage = new CreatePointPage(_frame);
+            _frame.Navigate(createPointPage);
+        }
+
     }
 }

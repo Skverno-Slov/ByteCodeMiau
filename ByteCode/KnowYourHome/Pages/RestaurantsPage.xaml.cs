@@ -1,17 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using KnowYourHome.UserControls;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace KnowYourHome.Pages
 {
@@ -24,6 +13,20 @@ namespace KnowYourHome.Pages
         {
             InitializeComponent();
             DataContext = new RestaurantsViewModel(frame.FindName("MainFrame") as Frame);
+        }
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            var restaurants = (DataContext as RestaurantsViewModel).EntertainmentItems;
+
+            foreach (var hotel in restaurants)
+            {
+                EntertamentUserControl entertamentUserControl = new EntertamentUserControl(hotel)
+                {
+                    DataContext = hotel
+                };
+
+                RestaurantsStackPanel.Children.Add(entertamentUserControl);
+            }
         }
     }
 }

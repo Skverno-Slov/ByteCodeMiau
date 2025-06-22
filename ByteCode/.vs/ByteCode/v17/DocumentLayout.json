@@ -1,70 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\",
+  "WorkspaceRootPath": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\databaselibrary\\repositories\\entertamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\repositories\\entertamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\windows\\entertamentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\windows\\entertamentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\viewmodel\\hotelsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\viewmodel\\hotelsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\usercontrols\\entertamentusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\usercontrols\\entertamentusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\usercontrols\\entertamentusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\usercontrols\\entertamentusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\pages\\hotelspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\hotelspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\viewmodel\\createpointviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\viewmodel\\createpointviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\pages\\hotelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\hotelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\viewmodel\\routeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\viewmodel\\routeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\windows\\routewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\windows\\routewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\databaselibrary\\database\\sqlitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\database\\sqlitefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\viewmodel\\monumentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\viewmodel\\monumentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\databaselibrary\\models\\entertament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\models\\entertament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\pages\\restaurantspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\restaurantspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\knowyourhome\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\pages\\restaurantspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\restaurantspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\pages\\routepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\routepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\pages\\hotelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\hotelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\pages\\monumentspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\monumentspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\pages\\monumentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\monumentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\pages\\hotelspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\hotelspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\pages\\createpointpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\createpointpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\pages\\createpointpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\createpointpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\databaselibrary\\database\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\database\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\viewmodel\\hotelsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\viewmodel\\hotelsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\bytecodemiau\\bytecode\\databaselibrary\\databaselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1FCAFC4B-F4D2-4FF9-9AAB-983340009A95}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\databaselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\pages\\routespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\routespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\windows\\routewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\windows\\routewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|c:\\users\\fetma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\bytecodemiau_olddesign\\bytecode\\knowyourhome\\pages\\routespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEB728BD-BFED-4CFE-A8A6-0DE73C51E72A}|KnowYourHome\\KnowYourHome.csproj|solutionrelative:knowyourhome\\pages\\routespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,202 +106,312 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "KnowYourHome\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\AssemblyInfo.cs",
-              "RelativeToolTip": "KnowYourHome\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T15:52:21.384Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HotelsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\ViewModel\\HotelsViewModel.cs",
-              "RelativeDocumentMoniker": "KnowYourHome\\ViewModel\\HotelsViewModel.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\ViewModel\\HotelsViewModel.cs",
-              "RelativeToolTip": "KnowYourHome\\ViewModel\\HotelsViewModel.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:43:21.409Z",
+              "DocumentIndex": 0,
+              "Title": "EntertamentWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Windows\\EntertamentWindow.xaml",
+              "RelativeDocumentMoniker": "KnowYourHome\\Windows\\EntertamentWindow.xaml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Windows\\EntertamentWindow.xaml",
+              "RelativeToolTip": "KnowYourHome\\Windows\\EntertamentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T18:40:34.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HotelsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml.cs",
-              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\HotelsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml.cs",
-              "RelativeToolTip": "KnowYourHome\\Pages\\HotelsPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "RouteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\ViewModel\\RouteViewModel.cs",
+              "RelativeDocumentMoniker": "KnowYourHome\\ViewModel\\RouteViewModel.cs",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\ViewModel\\RouteViewModel.cs",
+              "RelativeToolTip": "KnowYourHome\\ViewModel\\RouteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:42:50.552Z",
+              "WhenOpened": "2025-06-22T18:24:29.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonumentsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\ViewModel\\MonumentsViewModel.cs",
+              "RelativeDocumentMoniker": "KnowYourHome\\ViewModel\\MonumentsViewModel.cs",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\ViewModel\\MonumentsViewModel.cs",
+              "RelativeToolTip": "KnowYourHome\\ViewModel\\MonumentsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:24:25.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoutePage.xaml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\RoutePage.xaml",
+              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\RoutePage.xaml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\RoutePage.xaml",
+              "RelativeToolTip": "KnowYourHome\\Pages\\RoutePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T18:18:06.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MonumentsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\MonumentsPage.xaml.cs",
+              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\MonumentsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\MonumentsPage.xaml.cs",
+              "RelativeToolTip": "KnowYourHome\\Pages\\MonumentsPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:17:16.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RestaurantsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\RestaurantsPage.xaml.cs",
+              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\RestaurantsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\RestaurantsPage.xaml.cs",
+              "RelativeToolTip": "KnowYourHome\\Pages\\RestaurantsPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:15:09.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "HotelsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml",
-              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\HotelsPage.xaml",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml",
-              "RelativeToolTip": "KnowYourHome\\Pages\\HotelsPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-21T14:41:34.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml.cs",
-              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\HomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml.cs",
-              "RelativeToolTip": "KnowYourHome\\Pages\\HomePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:39:20.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml",
-              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml",
-              "RelativeToolTip": "KnowYourHome\\Pages\\HomePage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-21T14:35:56.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\ViewModel\\BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\ViewModel\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "KnowYourHome\\ViewModel\\BaseViewModel.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\ViewModel\\BaseViewModel.cs",
               "RelativeToolTip": "KnowYourHome\\ViewModel\\BaseViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:30:48.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\ViewModel\\HomeViewModel.cs",
-              "RelativeDocumentMoniker": "KnowYourHome\\ViewModel\\HomeViewModel.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\ViewModel\\HomeViewModel.cs",
-              "RelativeToolTip": "KnowYourHome\\ViewModel\\HomeViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:29:39.993Z",
+              "WhenOpened": "2025-06-22T18:09:23.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "KnowYourHome\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\RelayCommand.cs",
-              "RelativeToolTip": "KnowYourHome\\RelayCommand.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAQAAAALAAAAAAAAAA==",
+              "Title": "CreatePointViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\ViewModel\\CreatePointViewModel.cs",
+              "RelativeDocumentMoniker": "KnowYourHome\\ViewModel\\CreatePointViewModel.cs",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\ViewModel\\CreatePointViewModel.cs",
+              "RelativeToolTip": "KnowYourHome\\ViewModel\\CreatePointViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:26:57.072Z",
+              "WhenOpened": "2025-06-22T18:09:12.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EntertamentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\Repositories\\EntertamentRepository.cs",
-              "RelativeDocumentMoniker": "DataBaseLibrary\\Repositories\\EntertamentRepository.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\Repositories\\EntertamentRepository.cs",
-              "RelativeToolTip": "DataBaseLibrary\\Repositories\\EntertamentRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAC6AAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "HotelsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\ViewModel\\HotelsViewModel.cs",
+              "RelativeDocumentMoniker": "KnowYourHome\\ViewModel\\HotelsViewModel.cs",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\ViewModel\\HotelsViewModel.cs",
+              "RelativeToolTip": "KnowYourHome\\ViewModel\\HotelsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T14:07:06.078Z",
+              "WhenOpened": "2025-06-22T18:08:43.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreatePointPage.xaml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\CreatePointPage.xaml",
+              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\CreatePointPage.xaml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\CreatePointPage.xaml",
+              "RelativeToolTip": "KnowYourHome\\Pages\\CreatePointPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T18:07:17.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "KnowYourHome\\Pages\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T18:05:33.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\ViewModel\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "KnowYourHome\\ViewModel\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\ViewModel\\HomeViewModel.cs",
+              "RelativeToolTip": "KnowYourHome\\ViewModel\\HomeViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:05:26.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoutesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\RoutesPage.xaml.cs",
+              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\RoutesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\RoutesPage.xaml.cs",
+              "RelativeToolTip": "KnowYourHome\\Pages\\RoutesPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:02:00.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntertamentUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\UserControls\\EntertamentUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "KnowYourHome\\UserControls\\EntertamentUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\UserControls\\EntertamentUserControl.xaml.cs",
+              "RelativeToolTip": "KnowYourHome\\UserControls\\EntertamentUserControl.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAnwEIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:01:00.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntertamentUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\UserControls\\EntertamentUserControl.xaml",
+              "RelativeDocumentMoniker": "KnowYourHome\\UserControls\\EntertamentUserControl.xaml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\UserControls\\EntertamentUserControl.xaml",
+              "RelativeToolTip": "KnowYourHome\\UserControls\\EntertamentUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T17:59:07.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HotelsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml.cs",
+              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\HotelsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml.cs",
+              "RelativeToolTip": "KnowYourHome\\Pages\\HotelsPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:54:27.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Entertament.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\Models\\Entertament.cs",
-              "RelativeDocumentMoniker": "DataBaseLibrary\\Models\\Entertament.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\Models\\Entertament.cs",
-              "RelativeToolTip": "DataBaseLibrary\\Models\\Entertament.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T13:58:21.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DataBaseLibrary.csproj",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBaseLibrary.csproj",
-              "RelativeDocumentMoniker": "DataBaseLibrary\\DataBaseLibrary.csproj",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBaseLibrary.csproj",
-              "RelativeToolTip": "DataBaseLibrary\\DataBaseLibrary.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-21T13:56:55.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SqliteFactory.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBase\\SqliteFactory.cs",
-              "RelativeDocumentMoniker": "DataBaseLibrary\\DataBase\\SqliteFactory.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBase\\SqliteFactory.cs",
-              "RelativeToolTip": "DataBaseLibrary\\DataBase\\SqliteFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T13:56:43.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IDbConnectionFactory.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBase\\IDbConnectionFactory.cs",
-              "RelativeDocumentMoniker": "DataBaseLibrary\\DataBase\\IDbConnectionFactory.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\DataBaseLibrary\\DataBase\\IDbConnectionFactory.cs",
-              "RelativeToolTip": "DataBaseLibrary\\DataBase\\IDbConnectionFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T13:52:00.137Z"
+              "Title": "HotelsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml",
+              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\HotelsPage.xaml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\HotelsPage.xaml",
+              "RelativeToolTip": "KnowYourHome\\Pages\\HotelsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T17:53:34.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "KnowYourHome\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\MainWindow.xaml",
-              "RelativeToolTip": "KnowYourHome\\MainWindow.xaml",
+              "Title": "RestaurantsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\RestaurantsPage.xaml",
+              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\RestaurantsPage.xaml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\RestaurantsPage.xaml",
+              "RelativeToolTip": "KnowYourHome\\Pages\\RestaurantsPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-21T13:49:13.495Z"
+              "WhenOpened": "2025-06-22T17:53:30.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "KnowYourHome\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\ByteCodeMiau\\ByteCode\\KnowYourHome\\MainWindow.xaml.cs",
-              "RelativeToolTip": "KnowYourHome\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "MonumentsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\MonumentsPage.xaml",
+              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\MonumentsPage.xaml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\MonumentsPage.xaml",
+              "RelativeToolTip": "KnowYourHome\\Pages\\MonumentsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T17:53:25.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KnowYourHome\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\MainWindow.xaml",
+              "RelativeToolTip": "KnowYourHome\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T17:52:12.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RouteWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Windows\\RouteWindow.xaml",
+              "RelativeDocumentMoniker": "KnowYourHome\\Windows\\RouteWindow.xaml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Windows\\RouteWindow.xaml",
+              "RelativeToolTip": "KnowYourHome\\Windows\\RouteWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T17:36:10.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoutesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\RoutesPage.xaml",
+              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\RoutesPage.xaml",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\RoutesPage.xaml",
+              "RelativeToolTip": "KnowYourHome\\Pages\\RoutesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-22T17:36:07.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreatePointPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\CreatePointPage.xaml.cs",
+              "RelativeDocumentMoniker": "KnowYourHome\\Pages\\CreatePointPage.xaml.cs",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Pages\\CreatePointPage.xaml.cs",
+              "RelativeToolTip": "KnowYourHome\\Pages\\CreatePointPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T13:49:11.13Z"
+              "WhenOpened": "2025-06-22T17:35:56.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Windows\\RouteWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KnowYourHome\\Windows\\RouteWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\fetma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ByteCodeMiau_OldDesign\\ByteCode\\KnowYourHome\\Windows\\RouteWindow.xaml.cs",
+              "RelativeToolTip": "KnowYourHome\\Windows\\RouteWindow.xaml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAkwHQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:30:46.167Z",
+              "EditorCaption": ""
             }
           ]
         }
