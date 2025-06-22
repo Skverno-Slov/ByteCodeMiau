@@ -458,7 +458,7 @@ C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau_OldDesign\ByteCode\
 C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau_OldDesign\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\KnowYourHome.pdb
 C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau_OldDesign\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\KnowYourHome.genruntimeconfig.cache
 C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau_OldDesign\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\ref\KnowYourHome.dll
-C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau_OldDesign\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Pages\RoutePage.g.cs
-C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau_OldDesign\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Pages\RoutePage.baml
 C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau_OldDesign\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Windows\RouteWindow.g.cs
 C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau_OldDesign\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Windows\RouteWindow.baml
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau_OldDesign\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Windows\EntertamentWindow.g.cs
+C:\Users\fetma\OneDrive\Рабочий стол\ByteCodeMiau_OldDesign\ByteCode\KnowYourHome\obj\Debug\net8.0-windows\Windows\EntertamentWindow.baml

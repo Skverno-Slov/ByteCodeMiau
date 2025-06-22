@@ -85,7 +85,7 @@ namespace KnowYourHome.UserControls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/KnowYourHome;V1.0.0.0;component/usercontrols/entertamentusercontrol.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/KnowYourHome;component/usercontrols/entertamentusercontrol.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\UserControls\EntertamentUserControl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

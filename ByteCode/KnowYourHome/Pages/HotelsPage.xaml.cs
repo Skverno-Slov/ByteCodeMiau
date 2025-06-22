@@ -1,4 +1,6 @@
-﻿using KnowYourHome.UserControls;
+﻿using DataBaseLibrary.Models;
+using KnowYourHome.UserControls;
+using KnowYourHome.Windows;
 using System.Windows;
 using System.Windows.Controls;
 
@@ -25,8 +27,18 @@ namespace KnowYourHome
                 { 
                     DataContext = hotel
                 };
+                entertamentUserControl.MoreButtonClicked += EntertamentUserControl_MoreButtonClicked;
                 HotelsStackPanel.Children.Add(entertamentUserControl);
             }
+        }
+
+        private void EntertamentUserControl_MoreButtonClicked(object? sender, RoutedEventArgs e)
+        {
+            EntertamentWindow entertamentWindow = new()
+            {
+                DataContext = (sender as EntertamentUserControl).DataContext as Entertament
+            };
+            entertamentWindow.Show();
         }
     }
 }

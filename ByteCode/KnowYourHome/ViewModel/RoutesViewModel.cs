@@ -30,7 +30,6 @@ namespace KnowYourHome
 
             LoadData();
             NavigateBackCommand = new RelayCommand(_ => NavigateBack());
-            NavigateToRouteCommand = new RelayCommand(_ => NavigateToRoute());
         }
 
         private void LoadData()
@@ -53,10 +52,5 @@ namespace KnowYourHome
         private void NavigateBack()
             => _frame.GoBack();
 
-        private void NavigateToRoute()
-        {
-            var routePage = new RoutePage(_frame);
-            _frame.Navigate(routePage);
-        }
     }
 }
